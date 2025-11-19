@@ -48,7 +48,7 @@ This relationship bridges the **time-domain correlation** and **frequency-domain
 clc
 clear all; 
 t=0:0.01:2*%pi;
-x=14*cos(2*t);
+x=25*sin(2*t);
 subplot(3,2,1);
 plot(x);
 au=xcorr(x,x);
@@ -66,7 +66,7 @@ plot(fw2);
 ```
 ---
 ## **Output:**
-<img width="1919" height="1199" alt="Auto Corelation" src="https://github.com/user-attachments/assets/10149828-335f-4775-a4ae-b1a6ce2f15b2" />
+<img width="1845" height="992" alt="image" src="https://github.com/user-attachments/assets/fa6c97f0-077f-4ec4-b816-1ab9788e780b" />
 
 
 
