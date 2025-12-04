@@ -68,6 +68,7 @@ plot(fw2);
 ## **Output:**
 <img width="1845" height="992" alt="image" src="https://github.com/user-attachments/assets/fa6c97f0-077f-4ec4-b816-1ab9788e780b" />
 
+<img width="513" height="795" alt="image" src="https://github.com/user-attachments/assets/7124cbdf-c575-4ec8-82ec-b9f1e60b72d9" />
 
 
 ---
